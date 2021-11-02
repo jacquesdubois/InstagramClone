@@ -1,6 +1,6 @@
 function MiniProfile() {
     return (
-        <div className='flex items-center justify-between mt-14 ml-10'>
+        <div className='flex items-center justify-between mt-6 ml-10'>
             <img className='rounded-full border p-[2px] w-16 h-16'
                 src='https://links.papareact.com/3ke'
                 alt='summary pic'
