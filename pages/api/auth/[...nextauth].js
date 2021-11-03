@@ -11,7 +11,7 @@ export default NextAuth({
     // ...add more providers here
   ],
   pages: {
-      signIn: '/auth/signin',
+      signIn: 'https://instagram-clone-f63rk0pwn-jacquesdubois.vercel.app/auth/signin',
 
   },
   callbacks: {
